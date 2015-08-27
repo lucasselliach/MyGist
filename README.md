@@ -6,6 +6,6 @@
  
 ### Usual Help 
   - [XmlSerializer to NFE](https://gist.github.com/lucasselliach/8541815c22a3ee62e8b3). XmlSerializer developed for NFE (used only in Brasil)
-  - [Certificado Digital](https://gist.github.com/lucasselliach/d251392ff58f324468af). Model used to get certificate and use it to signer the SAT(Sistema Autenticador e Transmissor de Cupons Fiscais Eletrônico)(used only in Brasil)
+  - [Certificado Digital](https://gist.github.com/lucasselliach/d251392ff58f324468af). Model used to get certificate and use it to sign the SAT(Sistema Autenticador e Transmissor de Cupons Fiscais Eletrônico)(used only in Brasil)
  
  
